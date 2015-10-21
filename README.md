@@ -1,2 +1,5 @@
-# svg-motion-1
-Experimental SVG animation
+# Experimental SVG animation
+
+Only tested in Chrome.
+
+Demo on CodePen: http://codepen.io/chunguo/full/xwpJRV/
